@@ -20,7 +20,17 @@ Type yes if a verification prompt shows up, then enter your password. Afterwards
 
 ## Step 3: Trying Some Commands
 
-Try out some commands! 'pwd', 'cd ..', 'ls', and 'cd' + file name in directory are all interesting ones. I got a list of all of the protected student folders by using 'cd ..' followed by 'ls'.
+Try out some commands! 'pwd', 'cd ..', 'ls', and 'cd' + file name in directory are all interesting ones. 
+
+`pwd` - pwd stands for "present working directory" and prints the working directory the user is currently in.
+
+`cd ..` - cd stands for "change directory," and the .. means to go to the parent directory of the directory the user is executing commands in.
+
+`ls` lists the files within the work tree.
+
+`cd [file name]` moves you into a file.
+
+Starting in my student folder, I got a list of all of the protected student folders by using 'cd ..' followed by 'ls'.
 
 ![Image](https://kabirvats.github.io/cse15l-report-1/command.PNG)
 
